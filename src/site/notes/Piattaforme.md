@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/piattaforme/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/piattaforme/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 # Piattaforme
