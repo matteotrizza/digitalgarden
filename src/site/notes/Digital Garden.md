@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/digital-garden/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 # Digital Garden
