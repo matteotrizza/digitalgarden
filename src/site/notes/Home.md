@@ -3,23 +3,21 @@
 ---
 
 
-<html>
-<head>
-	<title>Be Productive</title>
-</head>
-<body>
-	<div style="float:left">
-		<img src="https://i.imgur.com/poOdAAD.png" width="100">
-	</div>
-	<div>
-		<h2 style="text-align:center; margin:50px">Ciao! Sono Matteo e voglio aiutarti a lavorare meglio nel mondo del Digital</h2>
-	</div>
-	<div style="clear:both"></div>
-	<br> <br>
-</body>
-</html>
+# Matteo Trizza
+Ciao, sono Matteo Trizza e questo è il mio Digital Garden. Si tratta di una **gigantesca raccolta di dati**, che si suddividono in:
+- Tecnologia, la mia più grande passione;
+- Pensieri, raccolta di cose che mi vengono in mente e che voglio appuntare;
+- Diario, le cose che faccio ogni giorno e su cui si basa la mia vita.
 
-# Home
-Ciao, questo è un Digital Garden di prova. Al momento non ci troverai nulla di interessante. Vai sul mio [sito](https://trizza.ml/) principale per maggiori informazioni. :)
-
-**[[Piattaforme|Piattaforme]]**
+## Indice
+- Tecnologia
+	- [[Digital Garden|Digital Garden]]
+		- [[Realizzazione di questo Digital Garden|Realizzazione di questo Digital Garden]]
+		- [[Obsidian|Obsidian]]
+			- [[La formattazione MarkDown|La formattazione MarkDown]]
+			- [[La tecnica Zettelkasten|La tecnica Zettelkasten]]
+			- [[Avere un "Second Brain"|Avere un "Second Brain"]]
+				- [[Gli Sliding Panels|Gli Sliding Panels]]
+			- [[Perché non ho utilizzato Obsidian Publish?|Perché non ho utilizzato Obsidian Publish?]]
+		- [[GitHub|GitHub]]
+		- [[Netlify|Netlify]]
